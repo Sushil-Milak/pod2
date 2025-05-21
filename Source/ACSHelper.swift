@@ -8,7 +8,7 @@
 import Foundation
 //import AzureCommunicationCommon
 //import AzureCommunicationCalling
-//import AzureCommunicationCalling
+import AzureCommunicationCalling
 import AzureCommunicationUICalling
 import SwiftUICore
 

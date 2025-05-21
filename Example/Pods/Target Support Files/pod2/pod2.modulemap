@@ -1,0 +1,6 @@
+framework module pod2 {
+  umbrella header "pod2-umbrella.h"
+
+  export *
+  module * { export * }
+}
